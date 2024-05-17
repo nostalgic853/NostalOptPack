@@ -19,7 +19,7 @@ jobs:
       - name: Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
-          title: "Release"
+          title: "Continuous export"
           automatic_release_tag: "release"
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           files: "./nostal-optimization-*"
