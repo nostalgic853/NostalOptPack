@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "8df56d685d7d3913ed73d9669a1147bdca2ca053641f656ac5e9dec2a174eb97"
+hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-pack-unlocker.pw.toml"
-hash = "beba0f35557c9a5c903e9ba8388de2e471ced1031afa5eab1115e69c007674e5"
+hash = "88cf9aced39c83537675ec3f9e54a3ec1e8a76694f5042d8bc76be3613f86edb"
 metafile = true
 
 [[files]]
