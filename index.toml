@@ -76,9 +76,8 @@ hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
+file = "mods/debugify.pw.toml.disabled"
 hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
-metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -91,9 +90,8 @@ hash = "8df56d685d7d3913ed73d9669a1147bdca2ca053641f656ac5e9dec2a174eb97"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7d0b378ccbc753946b078a94fd1cac24b7b906492aa45660d4686051397a4c17"
-metafile = true
+file = "mods/entityculling-fabric-1.6.6-mc1.21.jar"
+hash = "46f191eecfae40abf6892c2d50e2a233fe1946eda89fc68690673a69b72c5c22"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -211,8 +209,8 @@ hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml"
-hash = "3d09917992bb22019000f58ecdec751afcbaca5b57e85d2db8d7c573e18c2084"
+file = "mods/viafabricplus.pw.toml"
+hash = "f584b0d2f966c08b71b5b9726779fabdaffc62f321d99ce453148bda20c5977c"
 metafile = true
 
 [[files]]
