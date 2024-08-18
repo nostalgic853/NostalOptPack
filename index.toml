@@ -22,7 +22,7 @@ hash = "e9043b917811f42362a69a452d31c007e05b2c529a1864ebc690cd75476ae99c"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "024980976a391a93700146c6ac350e59d35ff7d0809f3bdd1ca8a803d1c9cfa8"
+hash = "611eb5012227b5972df6e78b3c242609ef64c6d46b88711e6669a0d06feff71d"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -240,4 +240,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e69cf6112d2cc2e6fbbade14b7d596fb588494167821db1bef0757aaadc25557"
+hash = "19a142d07ca0a13c50132564ccfc9cd188fd1c34e23417f01d4ce9390b9e96fa"
