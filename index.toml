@@ -71,10 +71,6 @@ hash = "1ff111f24e1507b61d745c96e97d0448da264fb0f6e8e4075bb8addfa5c8abfe"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml.disabled"
-hash = "e00a6c3069bad762fddbdfe81b4fb85ed16dfee27bca33187e80c0659c3ba2e0"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
@@ -90,8 +86,9 @@ hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml.disabled"
+file = "mods/ebe.pw.toml"
 hash = "8df56d685d7d3913ed73d9669a1147bdca2ca053641f656ac5e9dec2a174eb97"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -129,8 +126,9 @@ hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml.disabled"
+file = "mods/indium.pw.toml"
 hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
@@ -141,10 +139,6 @@ metafile = true
 file = "mods/iris.pw.toml"
 hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml.disabled"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -192,8 +186,9 @@ hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
-file = "mods/server-pack-unlocker.pw.toml.disabled"
+file = "mods/server-pack-unlocker.pw.toml"
 hash = "beba0f35557c9a5c903e9ba8388de2e471ced1031afa5eab1115e69c007674e5"
+metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
