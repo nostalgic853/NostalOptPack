@@ -241,3 +241,19 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "19a142d07ca0a13c50132564ccfc9cd188fd1c34e23417f01d4ce9390b9e96fa"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
+hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+hash = "d880aba42c6dc89816450a143f746ddb56ff00faa9241e12af20e6e966c02f00"
+
+[[files]]
+file = "shaderpacks/Kappa_v5.2.zip"
+hash = "382fadd7d389260522099b25f9dc693bbc81b89220ec5b55459cce74e6c264d0"
+
+[[files]]
+file = "shaderpacks/Solas Shader V2.0.zip"
+hash = "c33222dc47ec6d93a9cae432a1d5e79b82f0bf8079dc049fe5c05963089e76c5"
