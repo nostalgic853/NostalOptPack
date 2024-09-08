@@ -144,11 +144,6 @@ hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "a2e62ebd7ce3187f7aa004aed7e4d11975104ae590ba1d3eb0ec319c30581574"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
 metafile = true
