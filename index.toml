@@ -99,9 +99,8 @@ hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "mods/ferrite-core.pw.toml.disabled"
 hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
-metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
@@ -129,9 +128,8 @@ hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
+file = "mods/language-reload.pw.toml.disabled"
 hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
-metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
