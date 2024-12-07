@@ -66,11 +66,6 @@ hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "caad51634d9804b362b8de3579cb9c60977efc77cf26b677f6886c7dfc7bc0a8"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
 metafile = true
@@ -85,13 +80,13 @@ hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
+file = "mods/ebe.pw.toml.disabled"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
 
 [[files]]
-file = "mods/entityculling-fabric-1.6.6-mc1.21.jar"
-hash = "46f191eecfae40abf6892c2d50e2a233fe1946eda89fc68690673a69b72c5c22"
+file = "mods/entityculling.pw.toml"
+hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -124,13 +119,8 @@ hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "92527a8c43f5e2d24e80b7bc54bd05c36026d66ea9447739ced3f984c40a7a92"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "449df63a848616f27d4643b44b7d640191273f959304aa00a35aed127d6029ea"
+hash = "9cad7e96acabaef97ffcb679017c1d38825bcd99fb6b84e7a7068508f32ea900"
 metafile = true
 
 [[files]]
@@ -154,9 +144,8 @@ hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
+file = "mods/modernfix.pw.toml.disabled"
 hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
-metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
