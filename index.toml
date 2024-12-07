@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/auto_export.yml"
-hash = "78088827b7928986cc1d506a945bd0ea0c60c10dab7a52041cae7d10543af762"
+hash = "0ca4f0857f2dae973ee2a88bde7aa0687a42c62e6ab7e3f43f221db41452f990"
 
 [[files]]
 file = "LICENSE"
