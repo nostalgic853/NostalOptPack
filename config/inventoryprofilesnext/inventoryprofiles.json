@@ -19,5 +19,42 @@
         "auto_refill_enable_horbar_indicator_icons": {
             "value": false
         }
+    },
+    "Hotkeys": {
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }

@@ -22,7 +22,7 @@ hash = "e9043b917811f42362a69a452d31c007e05b2c529a1864ebc690cd75476ae99c"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "d57826bc4ca7704c650694f2bb81668524fcfa90b451900e7c97ddf364f18dff"
+hash = "55b585128770fa26762422cf231e7021b0dac156545db5bc3b5540a726c57c21"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -67,21 +67,18 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml.disabled"
-hash = "9a0736a0d4eeb5bf917b190cfce7d1f3db32dafe2b132a96df3b28899db8d023"
+file = "mods/debugify.pw.toml"
+hash = "3e9322e16b6bb4db8237bfbd8e648d514dc17a9e130550c21c39f3e895ce24e9"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml.disabled"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -90,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
+hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
 metafile = true
 
 [[files]]
@@ -99,12 +96,13 @@ hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml.disabled"
-hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "59946105c01fd4ef3bc126c42e768cefb548bb2c9e0a5b039c8200aefd720030"
+hash = "c62ba0e2d0fb44b48760666d679aec86ee1666050e414e94a3dd4e891d692ba1"
 metafile = true
 
 [[files]]
@@ -124,12 +122,13 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
+hash = "3f032ca0324e6d7cc2126a05e812487f14d7ebd911ff15f510386b94481630c9"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml.disabled"
-hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
+file = "mods/language-reload.pw.toml"
+hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
+metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
@@ -152,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
+hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
 
 [[files]]
@@ -182,32 +181,27 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "ec1f1fe053d8749d4e9f08fe7c9f75eb5946d58fd971993d10469d4304a9471b"
+hash = "159cde8bf16f5c30487a711ef74b70183dfad0a4aaf5d3b041be499d5101d72c"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d6455abd0deae481e3c40ec33fa388a11c23031971bcf5437330f9aea2f47e45"
+hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4855b2d1c939577d9071f0fd80a5db65bba3b664a5cd7f1027c3213e8fe61c7d"
+hash = "03d5d31117587b1c13514ad3e2f5169d7631cc5d55a82234cab83a5beedef44e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "000394200a8c223d19024fd4d504806da097eb85f92085ea7f16d5b3662e9697"
+hash = "6d8cde9d679d7f55148f5fd679d10f736365e0293ff874ca2906a71896c6599d"
 metafile = true
 
 [[files]]
